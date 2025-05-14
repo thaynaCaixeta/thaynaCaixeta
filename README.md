@@ -7,7 +7,7 @@
 
 ### About Me
 
-I'm a **Senior Software Engineer** with over **6 years of experience** designing, building, and optimizing scalable backend systems and cloud infrastructure. Currently at **Cloudflare**, I develop distributed systems that handle **billions of requests daily** with a focus on performance, resilience, and security.
+I'm a **Software Engineer** with over **6 years of experience** designing, building, and optimizing scalable backend systems and cloud infrastructure. Currently at **Cloudflare**, I develop distributed systems that handle **billions of requests daily** with a focus on performance, resilience, and security.
 
 I’m passionate about building reliable APIs, working with microservices, and driving improvements in system design and observability. I thrive in Agile environments and love collaborating with teams to solve hard problems and ship clean, maintainable code.
 
