@@ -38,7 +38,7 @@ I’m passionate about building reliable APIs, working with microservices, and d
 ### 💼 Career Highlights
 
 - 🏢 **Cloudflare** (2024–Present): Built fault-tolerant, distributed microservices with Golang and Kafka. Helped optimize APIs handling billions of daily requests.
-- 🧪 **Merkle DACH** (2022–2024): Led backend architecture for a major sales platform in Java.
+- 🧪 **Merkle DACH** (2022–2024): Built backend architecture for a major sales platform in Java.
 - ☁️ **Inter** (2020–2021): Delivered real estate credit systems using Spring Boot and AWS.
 - 💡 Strong consulting experience and systems thinking from engagements at **ALTER SOLUTIONS** and **KPMG**.
 
