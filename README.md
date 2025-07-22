@@ -55,8 +55,3 @@ I’m passionate about building reliable APIs, working with microservices, and d
 ### 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/thayna-caixeta)
-- Mail: thayna.caixeta@gmail.com
----
-
-💡 *"Code is design made executable."*  
-Always learning. Always building.
