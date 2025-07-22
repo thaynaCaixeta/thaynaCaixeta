@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Thayná Caixeta Rocha
+# 👋 Hi, I'm Thayná
 
 🌍 Lisbon, Portugal | 💻 Systems Engineer @ Cloudflare  
 🔗 [GitHub](https://github.com/thaynaCaixeta) • 📫 thayna.caixeta@gmail.com • 🧠 Backend Specialist • ☁️ Cloud Native
